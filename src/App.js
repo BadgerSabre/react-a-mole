@@ -1,5 +1,6 @@
 import MoleContainer from "./MoleContainer";
 import { useState } from 'react'
+import './App.css'
 
 function App() {
   let [score, setScore] = useState(0)

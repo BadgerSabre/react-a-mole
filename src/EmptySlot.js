@@ -12,7 +12,7 @@ const EmptySlot = (props) => {
 
     return (
         <>
-            <img src={emptySlot}/>
+            <img style={{'width': '30vw'}} src={emptySlot}/>
         </>
     )
 }
